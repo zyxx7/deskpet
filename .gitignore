@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+deskpet_settings.json
+deskpet_message.json
+.DS_Store
+Thumbs.db
